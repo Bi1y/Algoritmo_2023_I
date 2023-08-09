@@ -1,4 +1,4 @@
-# Escribir un Pseudocódigo de un programa que permita leer la edad y peso.
+# leer la edad y pesode una persona y posteriormente imprimirla
 # Variables edad, peso.
 edad = 0
 peso = 0
